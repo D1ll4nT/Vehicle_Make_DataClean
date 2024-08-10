@@ -1,6 +1,8 @@
 
 # CleanVehicle_Make Script
 
+##This is a Work in Progress and is going to be used to showcase some of my skills as a data analyst/Software Developer for prospective employers to see. 
+
 This document provides a step-by-step explanation of the `CleanVehicle_Make` script, which is used for cleaning and matching vehicle make names in an Excel sheet.
 
 ## Overview
