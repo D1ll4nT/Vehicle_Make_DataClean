@@ -1,5 +1,5 @@
 
-# CleanVehicle_Make Script Documentation
+# CleanVehicle_Make Script
 
 This document provides a step-by-step explanation of the `CleanVehicle_Make` script, which is used for cleaning and matching vehicle make names in an Excel sheet.
 
